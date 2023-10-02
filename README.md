@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surender S K</h1>
 <h3 align="center">Entry level Data Analyst | I present insights from Big Data</h3>
-<img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surender2&label=Profile%20views&color=0e75b6&style=flat" alt="surender2" /> </p>
 
@@ -18,6 +17,7 @@ I'm Surender, and I'm on a thrilling journey from being a Mechanical Design Engi
 - Data Visualization
 - Dashboarding
 - Posters Design
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/surender-s-k-206607171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="surender-s-k-206607171" height="30" width="40" /></a>
