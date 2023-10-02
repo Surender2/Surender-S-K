@@ -4,20 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surender2&label=Profile%20views&color=0e75b6&style=flat" alt="surender2" /> </p>
 
 - 📫 How to reach me **sks125521@gmail.com**
-- Hello! 🌟 Thank you for stopping by to learn a bit about me.
-
-I'm Surender, and I'm on a thrilling journey from being a Mechanical Design Engineer to becoming an enthusiastic Data Analyst. I have a passion for uncovering insights hidden within Big Data and presenting them in meaningful ways. My unique background as a Mechanical Design Engineer has equipped me with the ability to analyze outcomes and measures meticulously, ensuring products are optimized before they even hit production lines.
-
-🔍 Tools & Technologies:
-- Power BI
-- Python
-- Excel
-
-📊 Functional Areas:
-- Data Visualization
-- Dashboarding
-- Posters Design
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/surender-s-k-206607171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="surender-s-k-206607171" height="30" width="40" /></a>
